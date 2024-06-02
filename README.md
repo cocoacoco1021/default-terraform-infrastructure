@@ -1,4 +1,4 @@
-# terraform-aws-basic-structure
+terraform-aws-basic-structure
 =========
 
 ## これは何？
