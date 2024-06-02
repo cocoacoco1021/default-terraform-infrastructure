@@ -14,7 +14,7 @@ git clone https://github.com/cocoacoco1021/terraform-aws-basic-structure.git
 cd terraform-aws-basic-structure
 ```
 
-### 2.main.tfに実行対象のAWSアカウントの情報を記載
+### 2.実行対象のAWSアカウント情報を記載
 ```
 vi main.tf
 ```
