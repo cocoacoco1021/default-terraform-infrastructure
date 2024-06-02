@@ -30,7 +30,6 @@ provider "aws" {
 
 ### 3.terraform.tfvarsに、情報を追加
 ```
-terraform init
 vi terraform.tfvars
 ```
 ```
@@ -40,6 +39,7 @@ environment = "環境名を追加"
 
 ### 4.Terraformを実行
 ```
+terraform init
 terraform plan
 terraform apply
 ```
